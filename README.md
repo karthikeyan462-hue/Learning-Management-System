@@ -1,12 +1,12 @@
-<h1 align="center">🎓 LMS - Learning Management System</h1>
+<h1 align="center">🎓 ZenLearn - Learning Management System</h1>
 
-A full-featured Learning Management System (LMS) web application built with the **MERN stack** (MongoDB, Express, React, Node.js). Users can browse, enroll in courses, track their progress, and make payments. Admins can manage courses, users, and track enrollments.
+A full-featured Learning Management System (ZenLearn) web application built with the **MERN stack** (MongoDB, Express, React, Node.js). Users can browse, enroll in courses, track their progress, and make payments. Admins can manage courses, users, and track enrollments.
 
 ### Preview
 
-Here are some screenshots of the Learning Management System:
+Here are some screenshots of ZenLearn:
 
-![Image](https://github.com/user-attachments/assets/5c482ee5-c8be-4796-83f0-e72d8235942f)
+![Homepage](./front-end/public/homepage.png)
 
 ![Image](https://github.com/user-attachments/assets/ea83184c-e190-451a-9c06-69a0ae1c2dfd)
 
@@ -42,9 +42,10 @@ Here are some screenshots of the Learning Management System:
 ### 1. Clone the Repository
 
 ```bash
-git clone "https://github.com/karthikeyan462-hue/Learning-Management-System.git"
-cd learning-Management-System-master
+git clone https://github.com/karthikeyan462-hue/Learning-Management-System.git
+cd Learning-Management-System
 ```
+
 ### 2. Install Back-end (Server) Dependencies
 ```bash
 cd back-end
