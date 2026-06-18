@@ -531,7 +531,7 @@ exports.generateCertificate = async (req, res) => {
     // Header
     doc.fontSize(26).text("Certificate of Achievement", { align: "center", underline: true });
     doc.moveDown();
-    doc.image(path.join(__dirname, "../public/images/DevDojoLogo.png"), 20, 20, { width: 100 });
+    doc.image(path.join(__dirname, "../public/images/ZenLearnLogo.png"), 20, 20, { width: 100 });
     // Recipient name
     doc.moveDown();
     doc.fontSize(18).text("This is awarded to", { align: "center" });

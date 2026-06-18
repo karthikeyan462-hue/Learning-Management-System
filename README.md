@@ -8,11 +8,11 @@ Here are some screenshots of ZenLearn:
 
 ![Homepage](./front-end/public/homepage.png)
 
-![Image](https://github.com/user-attachments/assets/ea83184c-e190-451a-9c06-69a0ae1c2dfd)
+![Admin Dashboard](./front-end/public/screenshot_admin_dashboard.png)
 
-![Image](https://github.com/user-attachments/assets/76c764cb-f8f0-457b-a355-0e1de9d86a9a)
+![Course List](./front-end/public/screenshot_course_list.png)
 
-![Image](https://github.com/user-attachments/assets/66876e27-6155-4458-8cf9-d1e905983aca)
+![Profile](./front-end/public/screenshot_profile.png)
 
 ## Features
 
